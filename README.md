@@ -7,3 +7,7 @@ This data analysis project aims to provide insights into the movie genre perform
 ##Data Source
 The primary dataset used for this analysis is the 'imdb_movies.csv' file containing detailed information about each movie produced from 1960 to 2015.The data is uploaded as part of the repository.
 
+##Tools
+In this project, I used Pandas for data cleaning, standardization, analysis and visualization
+
+
