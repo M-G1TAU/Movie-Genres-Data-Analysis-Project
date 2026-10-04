@@ -33,6 +33,11 @@ After loading the data, i had to create a profit column using the code below:
 ``` pandas
 df['profit']=df['revenue']-df['budget']
 ```
+Further, I had to strip the genre column and pick the genre occurring at index zero using the code below:
+``` pandas
+df1['genres']=df1['genres'].str.split('|').str[0]
+```
+
 
 
 
