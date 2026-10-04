@@ -20,6 +20,10 @@ In the initial data preparation phase, we performed the following tasks:
 ## Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions such as:
   1. Which genres are the most common?
+     The top three genres are drama, comedy and action at 22.6%, 21.4% and 14.7% respectively.
+
+  2. Which genres have a high avg profit?:
+     The top three genres with the highest average profits are as follows: adventure, science fiction and animation at $84.5 million, $54.5 million and $49.9 million respectively.
 
 
 
