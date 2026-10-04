@@ -2,6 +2,12 @@
 This is a course based project from Analyst builder. We analyze movie genre data determining the profitability and popularity of genres while testing hypothesis.
 ## Table of Contents
 1. [Project Overview](#project-overview)
+2. [Data Source](#data-source)
+3. [Tools](#tools)
+4. [Data Cleaning & Preparation](#data-Cleaning-&-Preparation)
+5. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+6. 
+7. 
 ## Project Overview
 This data analysis project aims to provide insights into the movie genre performance from 1960 to 2015. BY analyzing and answering set out questions and hypothesis, we seek to identify data driven trends and patterns and gain a deeper understanding of the movie entertainment industry.
 
