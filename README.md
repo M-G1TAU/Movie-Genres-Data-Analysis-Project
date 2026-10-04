@@ -48,6 +48,12 @@ Further, vote_count may occur after the movie such that the data on vote count m
 2. Hypothesis 2: The best movies according to popularity return high profit and revenue
    Popularity is correlated with revenues and profits; 73% and 66% respectively. This hypothesis is consistent with EDA 2 and EDA 3
 
+3. Hypothesis 3: Highly budgeted movies return high revenue and profit.
+   There is a significant positive correlation to support the hypothesis.
+   It is possible highly budgeted movies spend resources marketing the movies to attract a wider audience resulting in higher profit.
+
+
+
 
 
 
