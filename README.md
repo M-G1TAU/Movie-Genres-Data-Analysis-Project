@@ -6,8 +6,12 @@ This is a course based project from Analyst builder. We analyze movie genre data
 3. [Tools](#tools)
 4. [Data Cleaning & Preparation](#data-Cleaning-&-Preparation)
 5. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-6. 
-7. 
+6. [Data Analysis](#Data-Analysis)
+7. [Results and Findings](#results-and-findings)
+8. [Recommendations](#recommendations)
+9. [Data Analysis](#Data-Analysis)
+
+
 ## Project Overview
 This data analysis project aims to provide insights into the movie genre performance from 1960 to 2015. BY analyzing and answering set out questions and hypothesis, we seek to identify data driven trends and patterns and gain a deeper understanding of the movie entertainment industry.
 
