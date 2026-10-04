@@ -14,6 +14,10 @@ This is a course based project from Analyst builder. We analyze movie genre data
 
 ### Project Overview
 This data analysis project aims to provide insights into the movie genre performance from 1960 to 2015. BY analyzing and answering set out questions and hypothesis, we seek to identify data driven trends and patterns and gain a deeper understanding of the movie entertainment industry.
+<img width="1079" height="1002" alt="genre_popularity" src="https://github.com/user-attachments/assets/c1943fb9-0a68-46f2-879c-f5ddc70cefa3" />
+<img width="1076" height="723" alt="profitability_genre" src="https://github.com/user-attachments/assets/b915e808-777e-4a15-86a3-2f014101a893" />
+
+
 
 ### Data Source
 The primary dataset used for this analysis is the 'imdb_movies.csv' file containing detailed information about each movie produced from 1960 to 2015.The data is uploaded as part of the repository.
