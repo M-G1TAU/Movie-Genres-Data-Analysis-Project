@@ -84,6 +84,10 @@ The analysis and recommendations are relevant to multiple players in the movie e
 ### Limitations
 In the process of data cleaning, I had to remove duplicate rows that would have affected the accuracy of my conclusion from the analysis. The data also contained zero values in numeric data type columns which ultimately affect the quality of conclusion and analysis.
 
+|Name|Profession|Qualification|
+|--------|--------|---------|
+|Morris Mwangi Gitau|Economist|Data Analyst|
+
 
 
 
