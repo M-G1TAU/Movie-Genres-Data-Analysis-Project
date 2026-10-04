@@ -59,6 +59,7 @@ The analysis and recommendations are relevant to multiple players in the movie e
 3. Improve data collection tools to include gender and age for improved demographic analysis and mapping.
 
 ## Limitations
+In the process of data cleaning, I had to remove duplicate rows that would have affected the accuracy of my conclusion from the analysis. The data also contained zero values in numeric data type columns which ultimately affect the quality of conclusion and analysis.
 
 
 
