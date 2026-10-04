@@ -4,12 +4,12 @@ This is a course based project from Analyst builder. We analyze movie genre data
 1. [Project Overview](#project-overview)
 2. [Data Source](#data-source)
 3. [Tools](#tools)
-4. [Data Cleaning & Preparation](#data-Cleaning-&-Preparation)
-5. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-6. [Data Analysis](#Data-Analysis)
+4. [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Data Analysis](#data-analysis)
 7. [Results and Findings](#results-and-findings)
 8. [Recommendations](#recommendations)
-9. [Data Analysis](#Data-Analysis)
+9. [Limitations](#limitations)
 
 
 ## Project Overview
