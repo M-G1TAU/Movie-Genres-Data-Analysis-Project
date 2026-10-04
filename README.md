@@ -45,6 +45,9 @@ Hypothesis is rejected. Vote average has a minimal negative correlation with rev
 Looking closely at the vote count and popularity correlation with revenues and profits, the data suggests that the number of people watching movies is marginally more the the number of people watching the movies and voting.
 Further, vote_count may occur after the movie such that the data on vote count may not have much impact on future revenues hence the lower correlation coefficient.
 
+2. Hypothesis 2: The best movies according to popularity return high profit and revenue
+   Popularity is correlated with revenues and profits; 73% and 66% respectively. This hypothesis is consistent with EDA 2 and EDA 3
+
 
 
 
