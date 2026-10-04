@@ -38,6 +38,13 @@ Further, I had to strip the genre column and pick the genre occurring at index z
 df1['genres']=df1['genres'].str.split('|').str[0]
 ```
 
+## Results and Findings
+The analysis was used to test the following hypothesis:
+1. Hypothesis 1: Movies according to vote avg return high profit and revenue
+Hypothesis is rejected. Vote average has a minimal negative correlation with revenues and profits.
+Looking closely at the vote count and popularity correlation with revenues and profits, the data suggests that the number of people watching movies is marginally more the the number of people watching the movies and voting.
+Further, vote_count may occur after the movie such that the data on vote count may not have much impact on future revenues hence the lower correlation coefficient.
+
 
 
 
