@@ -56,6 +56,7 @@ Further, vote_count may occur after the movie such that the data on vote count m
 The analysis and recommendations are relevant to multiple players in the movie entertainment industry, from streamers, producers and actors.Based on the analysis, we recommend the following:
 1. Streaming services and production houses should acquire more drama, comedy and action content to retain customers.
 2. After retention, streaming services and production houses should produce adventure,science fiction and animation to boost revenue and profits. The bled of highly popular and most profitable genres will offer a wide variety that may lead to better customer experience and satisfaction.
+3. Improve data collection tools to include gender and age for improved demographic analysis and mapping.
 
 
 
