@@ -17,4 +17,9 @@ In the initial data preparation phase, we performed the following tasks:
 3. Handling missing values
 4. Data cleaning and formatting for the genre column
 
+## Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions such as:
+  1. Which genres are the most common?
+
+
 
