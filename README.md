@@ -58,6 +58,9 @@ The analysis and recommendations are relevant to multiple players in the movie e
 2. After retention, streaming services and production houses should produce adventure,science fiction and animation to boost revenue and profits. The bled of highly popular and most profitable genres will offer a wide variety that may lead to better customer experience and satisfaction.
 3. Improve data collection tools to include gender and age for improved demographic analysis and mapping.
 
+## Limitations
+
+
 
 
 
