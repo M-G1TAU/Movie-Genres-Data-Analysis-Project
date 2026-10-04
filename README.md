@@ -22,8 +22,17 @@ EDA involved exploring the sales data to answer key questions such as:
   1. Which genres are the most common?
      The top three genres are drama, comedy and action at 22.6%, 21.4% and 14.7% respectively.
 
-  2. Which genres have a high avg profit?:
+  2. Which genres have a high avg profit?
      The top three genres with the highest average profits are as follows: adventure, science fiction and animation at $84.5 million, $54.5 million and $49.9 million respectively.
+
+  3. Which genre has a high popularity?
+     The top three popular genre are adventure, science fiction and fantasy. The top two popular genres are also the top two profitable genres.
+
+## Data Analysis
+After loading the data, i had to create a profit column using the code below:
+``` pandas
+df['profit']=df['revenue']-df['budget']
+```
 
 
 
