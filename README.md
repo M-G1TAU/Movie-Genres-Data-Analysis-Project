@@ -52,6 +52,11 @@ Further, vote_count may occur after the movie such that the data on vote count m
    There is a significant positive correlation to support the hypothesis.
    It is possible highly budgeted movies spend resources marketing the movies to attract a wider audience resulting in higher profit.
 
+## Recommendations 
+The analysis and recommendations are relevant to multiple players in the movie entertainment industry, from streamers, producers and actors.Based on the analysis, we recommend the following:
+1. Streaming services and production houses should acquire more drama, comedy and action content to retain customers.
+2. After retention, streaming services and production houses should produce adventure,science fiction and animation to boost revenue and profits. The bled of highly popular and most profitable genres will offer a wide variety that may lead to better customer experience and satisfaction.
+
 
 
 
